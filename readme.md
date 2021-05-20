@@ -1,5 +1,5 @@
 <h3 align="center">
-    <img alt="Logo" title="#logo" width="320px" src="https://symphony.is/sites/default/files/blog/2019-02/og_image.png">
+    <img alt="Logo" title="#logo" width="320px" src="https://firebasestorage.googleapis.com/v0/b/resume-7d906.appspot.com/o/graphql.png?alt=media&token=e996a81d-1245-406b-995b-0423aa9394cd">
     <br />
     <br />
     <b>Uma linguagem de consulta para sua API</b>
