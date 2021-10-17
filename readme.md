@@ -1,5 +1,5 @@
 <h3 align="center">
-    <img alt="Logo" title="#logo" width="320px" src="https://camo.githubusercontent.com/439c6b2f41ce9a47bca7c04a9b873db1ab9e73eb9f0805e1411e9e77bbacd7e4/68747470733a2f2f666972656261736573746f726167652e676f6f676c65617069732e636f6d2f76302f622f726573756d652d37643930362e61707073706f742e636f6d2f6f2f6772617068716c2e706e673f616c743d6d6564696126746f6b656e3d65393936613831642d313234352d343036622d393935622d303432336161393339346364">
+    <img alt="Logo" title="#logo" width="320px" src="https://firebasestorage.googleapis.com/v0/b/resume-7d906.appspot.com/o/graphql.png?alt=media&token=e996a81d-1245-406b-995b-0423aa9394cd">
     <br />
     <br />
     <b>Uma linguagem de consulta para sua API</b>
